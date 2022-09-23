@@ -6,6 +6,8 @@ Kati
 Mati
 Tiina
 Leopold
+<<<<<<< HEAD
 Malle
 Kalle
 Ülle
+Manivald
